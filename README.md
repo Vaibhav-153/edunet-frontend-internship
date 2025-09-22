@@ -22,8 +22,7 @@ A **clean, responsive, and user-friendly** web application that provides **real-
 ---
 
 ## Screenshot
-*(Replace this with your own screenshot)*
-
+![alt text](image.png)
 ![Screenshot](screenshot.png)
 
 ---
